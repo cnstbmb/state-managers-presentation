@@ -1,0 +1,26 @@
+{
+  "name": "state-managers-presentation",
+  "version": "1.0.0",
+  "description": "Demo state managers",
+  "scripts": {
+    "start:backend": "cd backend && npm start",
+    "dev:backend": "cd backend && npm run dev",
+    "install:backend": "cd backend && npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cnstbmb/state-managers-presentation.git"
+  },
+  "keywords": [
+    "state-management",
+    "react",
+    "redux",
+    "recoil",
+    "jotai",
+    "zustand",
+    "xstate",
+    "mobx"
+  ],
+  "author": "",
+  "private": true
+}
