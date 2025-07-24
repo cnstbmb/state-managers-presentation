@@ -1,4 +1,3 @@
-// src/components/OrderSearch.jsx
 import React, {useState} from 'react';
 import {useRecoilState, useSetRecoilState} from 'recoil';
 import {viewModeState} from '../atoms/uiAtoms';
