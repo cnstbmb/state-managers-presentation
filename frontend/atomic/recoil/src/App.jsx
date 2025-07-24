@@ -1,4 +1,3 @@
-// src/App.jsx
 import React from 'react';
 import {useRecoilValue} from 'recoil';
 import {OrderSearch} from './components/OrderSearch';
