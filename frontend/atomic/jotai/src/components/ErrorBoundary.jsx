@@ -24,6 +24,7 @@ export class ErrorBoundary extends React.Component {
                         Перезагрузить страницу
                     </button>
                 </div>
+
             );
         }
 
