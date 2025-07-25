@@ -13,7 +13,7 @@ export const OrderList = observer(() => {
 
     useEffect(() => {
         fetchOrders();
-    }, [filters, fetchOrders]);
+    }, [filters]);
 
     const handleOrderClick = (orderId) => {
         fetchOrder(orderId);
