@@ -1,6 +1,6 @@
 {
-  "short_name": "Zustand Orders",
-  "name": "Zustand Order Tracking App",
+  "short_name": "MobX Orders",
+  "name": "MobX Order Tracking App",
   "icons": [
     {
       "src": "favicon.ico",
